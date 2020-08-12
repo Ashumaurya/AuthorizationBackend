@@ -1,0 +1,11 @@
+{
+  "name": "authbackend",
+  "version": "1.0.0",
+  "description": "This is a website component for Authorization ",
+  "main": "server.js",
+  "scripts": {
+    "test": "default"
+  },
+  "author": "Ashish Maurya",
+  "license": "ISC"
+}
